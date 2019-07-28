@@ -12,7 +12,8 @@
             android:layout_width="match_parent"
             android:layout_height="?android:actionBarSize"
             android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
-            android:background="@color/colorPrimaryDark"/>
+            android:background="@color/colorPrimaryDark"
+            android:textStyle = "bold"/>
 
 
     <android.support.v7.widget.RecyclerView
